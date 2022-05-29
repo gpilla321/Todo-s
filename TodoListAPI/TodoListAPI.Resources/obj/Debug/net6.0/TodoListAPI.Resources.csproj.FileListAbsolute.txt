@@ -1,0 +1,14 @@
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\bin\Debug\net6.0\TodoListAPI.Resources.deps.json
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\bin\Debug\net6.0\TodoListAPI.Resources.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\bin\Debug\net6.0\TodoListAPI.Resources.pdb
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\TodoListAPI.Resources.csproj.AssemblyReference.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\TodoListAPI.Resources.ErrorMessage_TaskItem.resources
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\TodoListAPI.Resources.csproj.GenerateResource.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\TodoListAPI.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\TodoListAPI.Resources.AssemblyInfoInputs.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\TodoListAPI.Resources.AssemblyInfo.cs
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\TodoListAPI.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\TodoListAPI.Resources.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\refint\TodoListAPI.Resources.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\TodoListAPI.Resources.pdb
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Resources\obj\Debug\net6.0\ref\TodoListAPI.Resources.dll

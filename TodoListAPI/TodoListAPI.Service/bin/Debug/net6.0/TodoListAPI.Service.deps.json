@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TodoListAPI.Service/1.0.0": {
+        "dependencies": {
+          "TodoListAPI.Core": "1.0.0",
+          "TodoListAPI.Repository": "1.0.0"
+        },
+        "runtime": {
+          "TodoListAPI.Service.dll": {}
+        }
+      },
+      "Dapper/2.0.123": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.123.33578"
+          }
+        }
+      },
+      "FluentValidation/11.0.1": {
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.0"
+          }
+        }
+      },
+      "TodoListAPI.Core/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.0.1",
+          "TodoListAPI.Resources": "1.0.0"
+        },
+        "runtime": {
+          "TodoListAPI.Core.dll": {}
+        }
+      },
+      "TodoListAPI.Repository/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.123",
+          "TodoListAPI.Core": "1.0.0"
+        },
+        "runtime": {
+          "TodoListAPI.Repository.dll": {}
+        }
+      },
+      "TodoListAPI.Resources/1.0.0": {
+        "runtime": {
+          "TodoListAPI.Resources.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoListAPI.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.123": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
+      "path": "dapper/2.0.123",
+      "hashPath": "dapper.2.0.123.nupkg.sha512"
+    },
+    "FluentValidation/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fcL5zF/glDwskUtpL0IfBupVWTChxOOvVs+dAA7Gme5NjIeJBiFKWq3eZV1O+AigucnBTr8SWG7wRRn+PgFnTw==",
+      "path": "fluentvalidation/11.0.1",
+      "hashPath": "fluentvalidation.11.0.1.nupkg.sha512"
+    },
+    "TodoListAPI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoListAPI.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoListAPI.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

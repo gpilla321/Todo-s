@@ -1,0 +1,15 @@
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\bin\Debug\net6.0\TodoListAPI.Core.deps.json
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\bin\Debug\net6.0\TodoListAPI.Core.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\bin\Debug\net6.0\TodoListAPI.Core.pdb
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\bin\Debug\net6.0\TodoListAPI.Resources.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\bin\Debug\net6.0\TodoListAPI.Resources.pdb
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\TodoListAPI.Core.csproj.AssemblyReference.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\TodoListAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\TodoListAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\TodoListAPI.Core.AssemblyInfo.cs
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\TodoListAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\TodoListAPI.Core.csproj.CopyComplete
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\TodoListAPI.Core.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\refint\TodoListAPI.Core.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\TodoListAPI.Core.pdb
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Domain\obj\Debug\net6.0\ref\TodoListAPI.Core.dll

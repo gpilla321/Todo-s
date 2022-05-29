@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V78oCiX59c511L7k3njfrc4coD7KJBfmxuP88M7pLNhuL5c7AQKSl17Smb2cPBcnqRIfKOuMIOAqzoZM8qdNIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo Pilla\\OneDrive - Sysphera Tecnologia LTDA\\Área de Trabalho\\Estudos\\TodoListAPI\\TodoListAPI.Repository\\TodoListAPI.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo Pilla\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Gustavo Pilla\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

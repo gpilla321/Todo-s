@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7DuX3dcfNj+AH6Y9te8M/BlM3z7YhUxpdiZnRh/BU3Ohj5vfRVHvssEjvP4+QGzOaucKWlSQSq0eu3Sum8vFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo Pilla\\OneDrive - Sysphera Tecnologia LTDA\\Área de Trabalho\\Estudos\\TodoListAPI\\TodoListAPI.Domain\\TodoListAPI.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo Pilla\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

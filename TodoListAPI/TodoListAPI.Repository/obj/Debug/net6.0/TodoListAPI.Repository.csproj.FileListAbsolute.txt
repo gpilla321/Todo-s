@@ -1,0 +1,17 @@
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\bin\Debug\net6.0\TodoListAPI.Repository.deps.json
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\bin\Debug\net6.0\TodoListAPI.Repository.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\bin\Debug\net6.0\TodoListAPI.Repository.pdb
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\TodoListAPI.Repository.csproj.AssemblyReference.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\TodoListAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\TodoListAPI.Repository.AssemblyInfoInputs.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\TodoListAPI.Repository.AssemblyInfo.cs
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\TodoListAPI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\TodoListAPI.Repository.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\refint\TodoListAPI.Repository.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\TodoListAPI.Repository.pdb
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\ref\TodoListAPI.Repository.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\bin\Debug\net6.0\TodoListAPI.Core.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\bin\Debug\net6.0\TodoListAPI.Resources.dll
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\bin\Debug\net6.0\TodoListAPI.Core.pdb
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\bin\Debug\net6.0\TodoListAPI.Resources.pdb
+C:\Users\Gustavo Pilla\OneDrive - Sysphera Tecnologia LTDA\Área de Trabalho\Estudos\TodoListAPI\TodoListAPI.Repository\obj\Debug\net6.0\TodoListAPI.Repository.csproj.CopyComplete
