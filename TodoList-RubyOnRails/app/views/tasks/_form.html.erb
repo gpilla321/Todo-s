@@ -1,0 +1,78 @@
+<div class="container">
+    <%= link_to "Back to Tasks", root_path %>
+    <h1>Add new Task</h1>
+
+    <%= form_with model: @task do |form| %>
+        <div>
+            <%= form.label :title %>
+            <%= form.text_field :title %>
+            <div class="error">
+                <% @task.errors.full_messages_for(:title).each do |message| %>
+                    <%= message %>.
+                <% end %>
+            </div>
+        </div>
+        <div>
+            <%= form.label :description %>
+            <%= form.text_area :description %>
+            <div class="error">
+                <% @task.errors.full_messages_for(:description).each do |message| %>
+                    <%= message %>
+                <% end %>
+            </div>
+        </div>
+        <div>
+            <%= form.label :isActive %>
+            <%= form.check_box :isActive %>
+        </div>
+        <div>
+            <%= form.submit "Submit new Task" %>
+        </div>
+    <% end %>
+</div>
+
+
+<style>
+body{
+    background-color: #f9f9f9;
+}
+
+.container {
+    width: 900px;
+    display: block;
+    margin: 0 auto;
+    background: #fff;
+    padding: 2em;
+}
+
+a{
+    background-color: #64abff;
+    padding: 0.5em 1em;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom:
+}
+
+h1 {
+    margin: 0 0 1em;
+}
+
+label {
+    display: block;
+}
+input{
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+textarea{ 
+    padding: 0.5em;
+}
+
+.error{
+    color: red;
+    margin-bottom: 1em;
+}
+</style>

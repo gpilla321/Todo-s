@@ -1,0 +1,66 @@
+<div class="container">
+    <%= link_to "Back to Tasks", root_path %>
+    <h1>Add new Task</h1>
+
+    <div>
+        <strong>Title:</strong> <span><%= @task.title %></span> 
+    </div>
+    <div>
+        <strong>Description:</strong> <span><%= @task.description %></span> 
+    </div>
+    <div>
+        <strong>Is Active:</strong> <span><%= @task.isActive %></span> 
+    </div>
+    <%= link_to "Edit Task", edit_task_path(@task.id) %>
+</div>
+
+
+<style>
+body{
+    background-color: #f9f9f9;
+}
+
+.container {
+    width: 900px;
+    display: block;
+    margin: 0 auto;
+    background: #fff;
+    padding: 2em;
+}
+
+h1 {
+    margin: 0 0 1em;
+}
+
+
+a{
+    background-color: #64abff;
+    padding: 0.5em 1em;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+label {
+    display: block;
+}
+input{
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+strong {
+    display: block;
+}
+div {
+    margin-bottom: 1em;
+}
+textarea{ 
+    padding: 0.5em;
+}
+
+.error{
+    color: red;
+    margin-bottom: 1em;
+}
+</style>
