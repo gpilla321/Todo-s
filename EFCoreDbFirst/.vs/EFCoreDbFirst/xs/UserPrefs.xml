@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{D51784B8-331C-4965-8CEA-FD12C80648A1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EFCoreDbFirst PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
