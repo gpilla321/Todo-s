@@ -1,4 +1,4 @@
-Simple EF Core Project. Not much to say about it.
+Simple EF Core Project
 
 There is a object called TaskItem which has informations about a simple Task.
 
