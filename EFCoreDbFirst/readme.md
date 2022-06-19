@@ -13,4 +13,4 @@ Its a simple crud which you can list for all tasks, or can chose about active or
 There is a few patchs to update title and descrpiton. Also there is a possibility to activate ou deactivate a TaskItem.
 
 
-On context I created the model and use migrations to update the database. I used SQLite to be faster 
+On context I created the model and use migrations to update the database and I will try learn more about the Database First approach and update the project based on that
